@@ -1,6 +1,6 @@
 # Analysis-of-Student-Grades
-![studgrades5](https://github.com/jessieangelica/Analysis-of-Student-Grades/assets/102423656/d71c5599-2e69-4548-9758-149b4f9b3e14)
-![studgrades4](https://github.com/jessieangelica/Analysis-of-Student-Grades/assets/102423656/5b17ff18-998c-41df-94c5-61984f990076)
-![studgrades3](https://github.com/jessieangelica/Analysis-of-Student-Grades/assets/102423656/b0f7571c-27eb-4f4e-b88e-6ee071aa4f8a)
-![studgrades2](https://github.com/jessieangelica/Analysis-of-Student-Grades/assets/102423656/819ad98e-4113-452e-b968-ae8070e7465a)
-![studgrades1](https://github.com/jessieangelica/Analysis-of-Student-Grades/assets/102423656/498cbf6c-9f85-49ff-99dd-48e5d1c75b74)
+![studgrades1](https://github.com/jessieangelica/Analysis-of-Student-Grades/assets/102423656/1ed61640-15e1-4890-95fe-8bdaa8fa6eb1)
+![studgrades2](https://github.com/jessieangelica/Analysis-of-Student-Grades/assets/102423656/245b9f7f-a7df-40f7-8c4b-403d12ef5f15)
+![studgrades3](https://github.com/jessieangelica/Analysis-of-Student-Grades/assets/102423656/f5cb47a7-5a36-4192-af44-c910e4ea5b50)
+![studgrades4](https://github.com/jessieangelica/Analysis-of-Student-Grades/assets/102423656/3ce9927e-0874-416e-a11b-cdbadeb3b566)
+![studgrades5](https://github.com/jessieangelica/Analysis-of-Student-Grades/assets/102423656/6f12beb8-acd2-4380-9496-7290cd515cd3)
